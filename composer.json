@@ -1,0 +1,17 @@
+{
+  "name": "MrCavoN/Bootstrap",
+  "type": "library",
+  "description": "bootstrap class to handle incoming requests",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Oscar Kuster",
+      "email": "oscar.kuster@quicknet.nl"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "MrCavoN" : "src/"
+    }
+  }
+}
